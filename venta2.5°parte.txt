@@ -1,0 +1,4 @@
+en venta 2.5 funcionamiento de carrito en main.py, los loops al momento de precionar un producto se agregan 
+inmediatamente al carrito por el JS (estan los metodos de eliminar, actualizar el producto de la canasta,
+pero no esta la opcion todavia),
+los mensajes de console de chrome, principio de las cookies

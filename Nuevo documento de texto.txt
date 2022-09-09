@@ -1,0 +1,31 @@
+hacer los apartados de admin
+hacer las paginas home, store, cart, checkout
+juntar y colocar orden de paginas
+Colocar diseño
+
+hacer store, con todo
+hacer carrito, con todo
+hacer el pago, con todo
+
+colocar productos sin en store
+colocar y vincular datos con carrito
+vincular lo del carrito con el pago
+
+agregar productos y/o actualizarlos
+colocar y la suma de valores de los productos
+hacer el boton de pago
+
+agregar o eliminar productos
+
+vincular paypal, mapbox, en si todas las API's
+
+
+
+
+
+
+
+
+
+
+
